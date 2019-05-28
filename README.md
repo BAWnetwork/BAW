@@ -10,3 +10,5 @@ The current WAB token on the ERC-20 platform of Ethereum will be entirely transf
 - Conversion rate between WAB and BAW is 1:1
 - After token BAW is listed on the exchange, we still support WAB for those who do not know about this swap event.
 - All WAB token converted to BAW token will be burned monthly and we will have specific announcement about this burning.
+
+✅*Detail: https://medium.com/@BAWnetwork/wab-migrated-to-binance-chain-and-the-entire-erc-20-wab-to-be-burned-c53dcf7d7dce*
